@@ -1,1 +1,1 @@
-Um Cientista de dados agora também se aventurando por engenharia de dados :)
+Um cientista de dados agora também se aventurando por engenharia de dados :)
